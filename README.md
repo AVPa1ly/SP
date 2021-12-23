@@ -8,7 +8,7 @@ You can track the progress via commits in main branch
 
 ## Accomplished labs
 
-- [ ] Lab1
+- [X] Lab1
 - [ ] Lab2
 - [ ] Lab3
 - [ ] Lab4
