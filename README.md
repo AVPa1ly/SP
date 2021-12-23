@@ -15,4 +15,4 @@ You can track the progress via commits in main branch
 - [X] Lab5
 - [X] Lab6
 - [X] Lab7
-- [ ] Lab8
+- [X] Lab8
