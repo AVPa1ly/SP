@@ -13,6 +13,6 @@ You can track the progress via commits in main branch
 - [X] Lab3
 - [X] Lab4
 - [X] Lab5
-- [ ] Lab6
+- [X] Lab6
 - [ ] Lab7
 - [ ] Lab8
