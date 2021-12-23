@@ -12,7 +12,7 @@ You can track the progress via commits in main branch
 - [X] Lab2
 - [X] Lab3
 - [X] Lab4
-- [ ] Lab5
+- [X] Lab5
 - [ ] Lab6
 - [ ] Lab7
 - [ ] Lab8
